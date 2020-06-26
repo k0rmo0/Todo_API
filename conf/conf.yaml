@@ -1,0 +1,6 @@
+dev: 
+    address: "localhost"
+    port: "3306"
+    name: "todos"
+    pass: ""
+    user: "root"
